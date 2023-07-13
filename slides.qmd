@@ -1,5 +1,5 @@
 ---
-title: "Applying Diátaxis to a Lots of Docs: A Case Study (in 4 minutes)"
+title: "Applying Diátaxis to a Lot of Docs: A Case Study (in 4 minutes)"
 subtitle: SciPy ⚡️ / Austin, TX / 13 July 2023
 authors:
 - Will Barnes
